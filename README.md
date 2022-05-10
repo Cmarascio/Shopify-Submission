@@ -1,5 +1,5 @@
 # Shopify-Submission
-PDF of SQL Queries included and Jupyter notebook of code. 
+PDF of SQL Queries and Jupyter notebook of code. 
 Please feel to request a copy of the Notebook by reaching out to me cristimarascio@gmail.com
 
 
